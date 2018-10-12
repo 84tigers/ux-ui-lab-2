@@ -1,0 +1,19 @@
+nav {
+    background-color: #F4E04D;
+}
+
+button {
+    color: #F4E04D;
+}
+
+/* .btn-secondary:hover {
+    color: #042a2b;
+    background-color: #F4E04D;
+    border: none;
+} */
+
+.btn {
+    color: #fff;
+    background-color: #F4E04D;
+    border-color: #F4E04D;
+}
